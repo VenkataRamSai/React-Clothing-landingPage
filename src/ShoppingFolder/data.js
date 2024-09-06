@@ -26,7 +26,5 @@ export const Ladies = {
     price2: "1459 INR",
     price3: "1659 INR",
     price4: "1759 INR",
-    price3: "1859 INR",
-    price4: "1959 INR",
 
 }
